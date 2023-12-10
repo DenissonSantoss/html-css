@@ -1,0 +1,8 @@
+splash:
+https://unsplash.com/pt-br
+pexels:
+https://www.pexels.com/pt-br/
+freepik
+https://br.freepik.com/
+site para todos incones
+https://icons.getbootstrap.com/
